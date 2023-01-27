@@ -13,7 +13,7 @@ class PhorestAPI {
         $this->url = 'https://api-gateway-eu.phorest.com/third-party-api-server/api';
 
         $this->headers = array(
-            'Authorization' => 'Basic Z2xvYmFsL21haWxAd2hpdGVnYXJkZW4uZGU6U3dvUG9LdUMrZXRIOURsbjNmUiQ='
+            'Authorization' => 'Basic <<TOKEN>>'
         );
     }
 
